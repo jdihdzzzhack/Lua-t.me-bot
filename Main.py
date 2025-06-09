@@ -5,7 +5,7 @@ import string
 import threading
 
 # Настройки
-BOT_TOKEN = '🔑_ТВОЙ_ТОКЕН_ОТ_BOTFATHER'
+BOT_TOKEN = '8065181346:AAH0gJ37oB5y7kyTVAzcrsQhuYBFrxo-Z4E'
 REQUIRED_CHANNEL = '@Krn1_Scripts'
 PORT = 8080
 
